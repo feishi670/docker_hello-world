@@ -1,0 +1,1 @@
+docker build -t="feishi670/ubuntu:auto" .
